@@ -1,16 +1,20 @@
-### Hi there 👋 i'm Stas Malakhov
+## Hi there 👋 i'm Stas
+![](https://komarev.com/ghpvc/?username=MalakhovStas&color=0563AF)
 
-<!--
-**MalakhovStas/MalakhovStas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I’m a beginner python developer
+* I’m currently studying at Skillbox
+* I’m looking for a job in python development
 
-Here are some ideas to get you started:
+#### Languages and Tools: 
+![python](https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python&logoColor=0563AF)
+![git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git&logoColor=E94E31)
+![sql](https://img.shields.io/badge/-SQL-121212?style=for-the-badge&logo=mysql&logoColor=007D7D)
+![pycharm](https://img.shields.io/badge/-IDE_PyCharm-121212?style=for-the-badge&logo=PyCharm&logoColor=FD7F19)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me:
+[![gmail](https://img.shields.io/badge/-gmail-121212?style=for-the-badge&logo=gmail&logoColor=34A853)](mailto:ff9147782@gmail.com?subject=Message%20from%20your%20GitHub%20profile "ff9147782@gmail.com")
+[![telegram](https://img.shields.io/badge/-telegram-121212?style=for-the-badge&logo=telegram&logoColor=1288C4)](https://t.me/i_am_a_telegram_user)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalakhovStas&show_icons=true&theme=gruvbox&show_owner=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalakhovStas&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
