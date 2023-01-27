@@ -1,11 +1,8 @@
 ## Hi there 👋 i'm Stas
 ![](https://komarev.com/ghpvc/?username=MalakhovStas&color=0563AF)
 
-* I’m a beginner python developer
-* I’m currently studying at ["Skillbox"](https://skillbox.ru/course/profession-python/)
-* I'm currently learning the ["Django"](https://www.djangoproject.com/) library
-* I’m looking for a job in python development
-
+* I’m a python developer
+* 
 #### Languages and Tools: 
 ![python](https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python&logoColor=0563AF)
 ![git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git&logoColor=E94E31)
