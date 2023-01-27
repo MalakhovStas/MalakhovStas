@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=MalakhovStas&color=0563AF)
 
 * I’m a python developer
-* 
 #### Languages and Tools: 
 ![python](https://img.shields.io/badge/-Python-121212?style=for-the-badge&logo=python&logoColor=0563AF)
 ![git](https://img.shields.io/badge/-Git-121212?style=for-the-badge&logo=git&logoColor=E94E31)
